@@ -10,7 +10,7 @@ const config = {
         '一帆风顺': { description: '1.33元现金', icon: '💎' },
         '二龙戏珠': { description: '玩偶一个', icon: '🎠' },
         '三羊开泰': { description: '3.33元现金', icon: '💴' },
-        '四喜临门': { description: '增加 1 次抽奖机会', icon: '🔁' },
+        '巳巳如意': { description: '增加 1 次抽奖机会', icon: '🔁' },
         '五谷丰登': { description: '糖果一盒', icon: '🍬' },
         '六六大顺': { description: '6.66元现金', icon: '🥇' }
     }
